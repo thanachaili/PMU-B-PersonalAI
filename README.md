@@ -5,7 +5,7 @@
 
 ## 1. xPore: An AI-Powered App for Bioinformaticians :point_right: [Click here](https://github.com/thanachaili/PMU-B-PersonalAI/blob/1fcf42e765ac7965ce70262e511f909e29881f21/GMM_thanachai.ipynb) 
 
-    -สิ่งที่ทำ
+*สิ่งที่ทำ
   * 1.สกัดพารามิเตอร์ (Q1, Q2, Q3) จาก GMM:
     *weights = gmm.weights_: สกัดค่าน้ำหนักของส่วนประกอบจาก GMM ที่ฝึกสอนไว้
     *means = gmm.means_: สกัดค่าค่าเฉลี่ยของส่วนประกอบจาก GMM ที่ฝึกสอนไว้
