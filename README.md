@@ -2,7 +2,7 @@
 > :star2: thanachai Liewkhonkaen
 
 ---
-## 1. xPore: An AI-Powered App for Bioinformaticians :point_right: [Click here](https://github.com/thanachaili/PMU-B-PersonalAI/blob/f2e5816571fa33414f45330a0153eaad029d2731/GMM_thanachaili.ipynb) 
+## 1. xPore: An AI-Powered App for Bioinformaticians :point_right: [Click here](https://github.com/thanachaili/PMU-B-PersonalAI/blob/2062b6f15f831a1e002a4ae0256f4a5ee9c70986/xPore_GMM_thanachaili.ipynb) 
 ---
 
 ---
