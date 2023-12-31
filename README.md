@@ -8,3 +8,5 @@
 ---
 ## 2. Learning from Biosignal :point_right: [Click here](https://github.com/thanachaili/PMU-B-PersonalAI/blob/3cbdf669007c7d786fb9b217c2fc10acf7cc9984/Learning_from_Biosignal.ipynb) 
 ---
+## 3. AI for detecting code plagiarism :point_right: [Click here](https://github.com/thanachaili/PMU-B-PersonalAI/blob/4372836fb0fd4c21a6c003a44b2003695dc5d1c2/thanachai_of_PMU_B_CodingAI_CodeCloneDetection_Workshop.ipynb) 
+---
