@@ -8,3 +8,5 @@
 ---
 ## 3. AI for detecting code plagiarism :point_right: [Click here](https://github.com/thanachaili/PMU-B-PersonalAI/blob/4372836fb0fd4c21a6c003a44b2003695dc5d1c2/thanachai_of_PMU_B_CodingAI_CodeCloneDetection_Workshop.ipynb) 
 ---
+## 4. BiTNet: AI for diagnosing ultrasound image: [Click here](https://github.com/thanachaili/PMU-B-PersonalAI/blob/099d5775282058689ea6785ed942537e427f2ef1/thanachai_PMUB_Personal_AI_Image_classification_EfficientNetB5.ipynb) 
+---
