@@ -10,3 +10,7 @@
 ---
 ## 4. BiTNet: AI for diagnosing ultrasound image: [Click here](https://github.com/thanachaili/PMU-B-PersonalAI/blob/099d5775282058689ea6785ed942537e427f2ef1/thanachai_PMUB_Personal_AI_Image_classification_EfficientNetB5.ipynb) 
 ---
+## 5. Mental disorder detection from social media data: [Click here](https://github.com/thanachaili/PMU-B-PersonalAI/blob/0c535025d6baa14c97d55eeb967dbbf739d044ba/thanachai_E_san_coding.ipynb) 
+---
+## 6. AI for arresting criminals: [Click here](https://github.com/thanachaili/PMU-B-PersonalAI/blob/0c535025d6baa14c97d55eeb967dbbf739d044ba/thanachai_Train_Yolov8_Object_Detection_on_Custom_Dataset.ipynb) 
+---
