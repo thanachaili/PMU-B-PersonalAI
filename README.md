@@ -1,6 +1,6 @@
 # PMU-B-PersonalAI
 > :star2: thanachai Liewkhonkaen
-> :star2: [คลิปแนะนำตัว](https://youtu.be/TtzfE--jGN8?si=71OeChg2KQcMcR11)
+> :star2: [คลิปแนะนำตัว](https://youtu.be/TtzfE--jGN8?si=71OeChg2KQcMcR1)
 ---
 ## 1. xPore: An AI-Powered App for Bioinformaticians :
   - :point_right: [HOMEWORK](https://github.com/thanachaili/PMU-B-PersonalAI/blob/2062b6f15f831a1e002a4ae0256f4a5ee9c70986/xPore_GMM_thanachaili.ipynb)
